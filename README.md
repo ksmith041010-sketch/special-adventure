@@ -1,4 +1,4 @@
-# French Quiz Game 🇫🇷
+# French Quiz Game
 
 This is a beginner Python project where I built a simple quiz game
 to practice both Python and French language skills.
